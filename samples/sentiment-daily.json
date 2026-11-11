@@ -1,0 +1,312 @@
+{
+  "success": true,
+  "data": {
+    "data": [
+      {
+        "bullish": 45.85,
+        "bearish": 54.15,
+        "timestamp": "2026-11-03"
+      },
+      {
+        "bullish": 40.85,
+        "bearish": 59.15,
+        "timestamp": "2026-11-02"
+      },
+      {
+        "bullish": 38.07,
+        "bearish": 61.93,
+        "timestamp": "2026-11-01"
+      },
+      {
+        "bullish": 37.61,
+        "bearish": 62.39,
+        "timestamp": "2026-10-31"
+      },
+      {
+        "bullish": 37.37,
+        "bearish": 62.63,
+        "timestamp": "2026-10-30"
+      },
+      {
+        "bullish": 46.64,
+        "bearish": 53.36,
+        "timestamp": "2026-10-29"
+      },
+      {
+        "bullish": 46.18,
+        "bearish": 53.82,
+        "timestamp": "2026-10-28"
+      },
+      {
+        "bullish": 46.74,
+        "bearish": 53.26,
+        "timestamp": "2026-10-27"
+      },
+      {
+        "bullish": 47.69,
+        "bearish": 52.31,
+        "timestamp": "2026-10-26"
+      },
+      {
+        "bullish": 51.46,
+        "bearish": 48.54,
+        "timestamp": "2026-10-25"
+      },
+      {
+        "bullish": 52.26,
+        "bearish": 47.74,
+        "timestamp": "2026-10-24"
+      },
+      {
+        "bullish": 52.35,
+        "bearish": 47.65,
+        "timestamp": "2026-10-23"
+      },
+      {
+        "bullish": 50.23,
+        "bearish": 49.77,
+        "timestamp": "2026-10-22"
+      },
+      {
+        "bullish": 50.14,
+        "bearish": 49.86,
+        "timestamp": "2026-10-21"
+      },
+      {
+        "bullish": 49.33,
+        "bearish": 50.67,
+        "timestamp": "2026-10-20"
+      },
+      {
+        "bullish": 50.13,
+        "bearish": 49.87,
+        "timestamp": "2026-10-19"
+      },
+      {
+        "bullish": 50.06,
+        "bearish": 49.94,
+        "timestamp": "2026-10-18"
+      },
+      {
+        "bullish": 50.33,
+        "bearish": 49.67,
+        "timestamp": "2026-10-17"
+      },
+      {
+        "bullish": 50.39,
+        "bearish": 49.61,
+        "timestamp": "2026-10-16"
+      },
+      {
+        "bullish": 54.61,
+        "bearish": 45.39,
+        "timestamp": "2026-10-15"
+      },
+      {
+        "bullish": 58.36,
+        "bearish": 41.64,
+        "timestamp": "2026-10-14"
+      },
+      {
+        "bullish": 63.64,
+        "bearish": 36.36,
+        "timestamp": "2026-10-13"
+      },
+      {
+        "bullish": 67.97,
+        "bearish": 32.03,
+        "timestamp": "2026-10-12"
+      },
+      {
+        "bullish": 69.73,
+        "bearish": 30.27,
+        "timestamp": "2026-10-11"
+      },
+      {
+        "bullish": 70.31,
+        "bearish": 29.69,
+        "timestamp": "2026-10-10"
+      },
+      {
+        "bullish": 70.84,
+        "bearish": 29.16,
+        "timestamp": "2026-10-09"
+      },
+      {
+        "bullish": 76.28,
+        "bearish": 23.72,
+        "timestamp": "2026-10-08"
+      },
+      {
+        "bullish": 75.31,
+        "bearish": 24.69,
+        "timestamp": "2026-10-07"
+      },
+      {
+        "bullish": 74.8,
+        "bearish": 25.2,
+        "timestamp": "2026-10-06"
+      },
+      {
+        "bullish": 70.36,
+        "bearish": 29.64,
+        "timestamp": "2026-10-05"
+      },
+      {
+        "bullish": 68.89,
+        "bearish": 31.11,
+        "timestamp": "2026-10-04"
+      },
+      {
+        "bullish": 68.35,
+        "bearish": 31.65,
+        "timestamp": "2026-10-03"
+      },
+      {
+        "bullish": 67.73,
+        "bearish": 32.27,
+        "timestamp": "2026-10-02"
+      },
+      {
+        "bullish": 66.75,
+        "bearish": 33.25,
+        "timestamp": "2026-10-01"
+      },
+      {
+        "bullish": 67.47,
+        "bearish": 32.53,
+        "timestamp": "2026-09-30"
+      },
+      {
+        "bullish": 67.95,
+        "bearish": 32.05,
+        "timestamp": "2026-09-29"
+      },
+      {
+        "bullish": 63.09,
+        "bearish": 36.91,
+        "timestamp": "2026-09-28"
+      },
+      {
+        "bullish": 64.04,
+        "bearish": 35.96,
+        "timestamp": "2026-09-27"
+      },
+      {
+        "bullish": 63.2,
+        "bearish": 36.8,
+        "timestamp": "2026-09-26"
+      },
+      {
+        "bullish": 61.59,
+        "bearish": 38.41,
+        "timestamp": "2026-09-25"
+      },
+      {
+        "bullish": 62.76,
+        "bearish": 37.24,
+        "timestamp": "2026-09-24"
+      },
+      {
+        "bullish": 60.99,
+        "bearish": 39.01,
+        "timestamp": "2026-09-23"
+      },
+      {
+        "bullish": 56.9,
+        "bearish": 43.1,
+        "timestamp": "2026-09-22"
+      },
+      {
+        "bullish": 59.68,
+        "bearish": 40.32,
+        "timestamp": "2026-09-21"
+      },
+      {
+        "bullish": 56.94,
+        "bearish": 43.06,
+        "timestamp": "2026-09-20"
+      },
+      {
+        "bullish": 58.48,
+        "bearish": 41.52,
+        "timestamp": "2026-09-19"
+      },
+      {
+        "bullish": 59.15,
+        "bearish": 40.85,
+        "timestamp": "2026-09-18"
+      },
+      {
+        "bullish": 61.13,
+        "bearish": 38.87,
+        "timestamp": "2026-09-17"
+      },
+      {
+        "bullish": 66.51,
+        "bearish": 33.49,
+        "timestamp": "2026-09-16"
+      },
+      {
+        "bullish": 66.48,
+        "bearish": 33.52,
+        "timestamp": "2026-09-15"
+      },
+      {
+        "bullish": 67.46,
+        "bearish": 32.54,
+        "timestamp": "2026-09-14"
+      },
+      {
+        "bullish": 68.52,
+        "bearish": 31.48,
+        "timestamp": "2026-09-13"
+      },
+      {
+        "bullish": 68.48,
+        "bearish": 31.52,
+        "timestamp": "2026-09-12"
+      },
+      {
+        "bullish": 69.23,
+        "bearish": 30.77,
+        "timestamp": "2026-09-11"
+      },
+      {
+        "bullish": 69.72,
+        "bearish": 30.28,
+        "timestamp": "2026-09-10"
+      },
+      {
+        "bullish": 68.8,
+        "bearish": 31.2,
+        "timestamp": "2026-09-09"
+      },
+      {
+        "bullish": 67.99,
+        "bearish": 32.01,
+        "timestamp": "2026-09-08"
+      },
+      {
+        "bullish": 66.04,
+        "bearish": 33.96,
+        "timestamp": "2026-09-07"
+      },
+      {
+        "bullish": 66.3,
+        "bearish": 33.7,
+        "timestamp": "2026-09-06"
+      },
+      {
+        "bullish": 66.62,
+        "bearish": 33.38,
+        "timestamp": "2026-09-05"
+      },
+      {
+        "bullish": 66.67,
+        "bearish": 33.33,
+        "timestamp": "2026-09-04"
+      }
+    ]
+  }
+}
